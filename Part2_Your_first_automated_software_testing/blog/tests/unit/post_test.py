@@ -1,5 +1,5 @@
 from unittest import TestCase
-from ...post import Post
+from Part2_Your_first_automated_software_testing.blog.post import Post
 
 
 class PostTest(TestCase):
